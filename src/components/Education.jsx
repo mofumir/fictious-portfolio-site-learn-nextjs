@@ -52,7 +52,7 @@ const Education = () => {
           <Details
             type="就労移行支援"
             time="2021-2023"
-            place="atGPジョブトレIT・Web船橋"
+            place="atGP____________"
             info="Webデザインと自身の障害対処を学び、就労に向けて準備をしています。"
           />
         </ul>
